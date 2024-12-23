@@ -1,6 +1,6 @@
 ---
 year: '2024'
-booktitle: Proceedings of The Workshop on Classifier Learning from Difficult Data at ECAI 2024
+booktitle: Proceedings of the ECAI 2024 Workshop on Classifier Learning from Difficult Data
 volume: '263'
 shortname: CLD2
 start: &1 2024-10-19
