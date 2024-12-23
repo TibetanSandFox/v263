@@ -71,7 +71,7 @@ volume_type: Volume
 volume_dir: v263
 email: ''
 conference:
-  name: Classifier Learning from Difficult Data, workshop organized during European Conference on Artificial Intelligence ECAI 2024
+  name: Classifier Learning from Difficult Data
   url: https://cldd.kssk.pwr.edu.pl
   location: Santiago de Compostella, Spain
   dates:
